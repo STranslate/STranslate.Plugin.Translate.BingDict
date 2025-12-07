@@ -1,0 +1,10 @@
+{
+  "PluginID": "4ed3beaab50842e6851a2e4bdbbeccae",
+  "Name": "Bing Dict",
+  "Description": "Free Bing dictionary plugin for stranslate",
+  "Author": "zggsong",
+  "Version": "0.0.1",
+  "Website": "https://github.com/STranslate/STranslate.Plugin.Translate.BingDict",
+  "ExecuteFileName": "STranslate.Plugin.Translate.BingDict.dll",
+  "IconPath": "icon.png"
+}
